@@ -1,0 +1,4 @@
+messages:
+  vanish: Du bist nun im Vanish!
+  unvanish: Du bist nicht mehr im Vanish!
+  notPlayer: Du musst ein Spieler sein, um diesen command auszuführen.

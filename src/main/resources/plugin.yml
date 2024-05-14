@@ -1,0 +1,14 @@
+name: Vanish
+version: '${project.version}'
+main: de.lundlucenany9.vanish.Vanish
+api-version: '1.19'
+commands:
+  vanish:
+    description: Benuzt um in oder aus dem Vanish zu gehen.
+    usage: /vanish
+    permission: vanish.vanish
+permissions:
+  vanish.vanish:
+    default: op
+  vanish.see:
+    default: op
